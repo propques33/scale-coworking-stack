@@ -61,6 +61,20 @@ const Index = () => {
       ],
       output: "15-hour coaching + SOPs + recordings",
       gradient: "from-orange-500 to-red-500"
+    },
+    {
+      icon: "💰",
+      number: "5.",
+      title: "Paid Growth Engine",
+      description: "Scale your growth with ROI-focused performance ads.",
+      features: [
+        "Meta + Google ad setup",
+        "Creatives + offer testing",
+        "OTA campaign management",
+        "Source-level ROI tracking"
+      ],
+      output: "Monthly ad creative packs + Real-time CAC + ROI dashboard + 5x ROAS goal in 60 days",
+      gradient: "from-emerald-500 to-blue-500"
     }
   ];
 
@@ -73,7 +87,7 @@ const Index = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-6">
-              Our Proven 4-Step Growth System
+              Our Proven 5-Step Growth System
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
               Each solution builds on the last, creating a complete growth engine 

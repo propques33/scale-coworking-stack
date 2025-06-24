@@ -15,7 +15,7 @@ const CTASection = () => {
       <div className="relative max-w-4xl mx-auto text-center px-4 sm:px-6 lg:px-8">
         <div className="mb-8">
           <h2 className="text-4xl sm:text-5xl font-bold mb-6">
-            🧩 One System. Four Solutions.
+            🧩 One System. Five Solutions.
           </h2>
           <p className="text-xl sm:text-2xl text-blue-100 mb-8">
             No fluff. Just a tight growth stack made for coworking operators.
